@@ -1,20 +1,20 @@
 # MAKER:SUMO PARTS LIST AND DESCRIPTION
 
-## SUMOBIT BASE
+## MAKER-SUMO BASE
 The front body housing the battery and sensors
 
-## SUMOBIT MOTOR L AND R
+## MAKER-SUMO MOTOR L AND R
 This part are designed for GM25 motor and SUMOBIT standard wheel diameter. A spacer might be needed to increase clearence for smaller diameter wheel.
 
-## SUMOBIT TOP
+## MAKER-SUMO TOP
 This part is the main part which MOTOR, BASE and COVER is attached to. 
 
-## SUMOBIT SHIELD 
+## MAKER-SUMO SHIELD 
 Front cover for sensor
 
-## SUMOBIT COVER (OPTIONAL)
+## MAKER-SUMO COVER (OPTIONAL)
 To cover the board and protect the microbit
 
-## SUMOBIT BOTTOM (OPTIONAL)
+## MAKER-SUMO BOTTOM (OPTIONAL)
 To increase height if the wheel diameter is larger
 
